@@ -1,7 +1,15 @@
 ﻿[
   {
+    "outputFile": "App_Data/Websites/Digitina/digitina.css",
+    "inputFile": "App_Data/Websites/Digitina/digitina.scss"
+  },
+  {
     "outputFile": "WebComponents/ContactForm/contact-form.css",
     "inputFile": "WebComponents/ContactForm/contact-form.scss"
+  },
+  {
+    "outputFile": "App_Data/Websites/MJPO/mjpo.css",
+    "inputFile": "App_Data/Websites/MJPO/mjpo.scss"
   },
   {
     "outputFile": "WebComponents/Lightbox/lightbox.css",

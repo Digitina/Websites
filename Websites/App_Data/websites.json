@@ -5,6 +5,96 @@
         "*/old"
       ]
     },
+    "Digitina": {
+      "Label": {
+        "en": "Digitina"
+      },
+      "Type": 1,
+      "Bindings": [
+        "*/digitina",
+        "digitina.eu",
+        "digitina.be"
+      ],
+      "DefaultUser": "e2a3b677-df5a-413e-b5f5-b9ff557c9ff6",
+      "Pages": [
+        {
+          "Name": "Contact",
+          "Label": {
+            "en": "Contact"
+          },
+          "Queries": [],
+          "Offset": 30
+        },
+        {
+          "Name": "Home",
+          "Label": {
+            "en": "Home"
+          },
+          "Queries": [],
+          "Offset": 10
+        },
+        {
+          "Name": "WhatWeDo",
+          "Label": {
+            "en": "What we do"
+          },
+          "Queries": [],
+          "Offset": 20
+        }
+      ],
+      "ContactFrom": "AFh112lpkwwSZKVDpPT80Z4x0eADyTiPhhkx8shi1X/PcOWsvk3yLS6bYYKwfRzm77oCLQDE5+LNKvvDKm4FXSZjKgJ4sDTJtZ3paE6Hz7yFGAPIgDr6ruI0+j/9EoF1",
+      "ContactTo": "PAQ4vlSXHGDQI35HOulTdze7/Ley3YODukQdh4VlLItm6yfa2FFbssSSHb1/30LYZGw0QqE9J5R3v8b+U1IM+spDClMPo7RLDdIao+thziFySeyHwCBLujiPt9ct4x5p;2N08f+ybhwkFzOEvajFuYcPXve3uI0gqR1xcXzatkGuO4cDx/gapv8tRs0BSUtbQG6NlwPZSaEoV6vEvMDGJIyyT9APJn+QX4pMiKzy41l2TScWvVhuPSBMW2BqWgRmP",
+      "ContactConfirmation": "Thank you for contacting us! We'll respond in a few days if needed."
+    },
+    "MJPO": {
+      "Label": {
+        "en": "Mjpo"
+      },
+      "Type": 1,
+      "Bindings": [
+        "*/mjpo",
+        "mjpo.pt",
+        "www.mjpo.pt"
+      ],
+      "DefaultUser": "d390354a-b161-4f28-ad98-14f5db887184",
+      "Pages": [
+        {
+          "Name": "Contact",
+          "Label": {
+            "en": "Contacto"
+          },
+          "Queries": [],
+          "Offset": 40
+        },
+        {
+          "Name": "Home",
+          "Label": {
+            "en": "Inicio"
+          },
+          "Queries": [],
+          "Offset": 10
+        },
+        {
+          "Name": "Portfolio",
+          "Label": {
+            "en": "Portfolio"
+          },
+          "Queries": [],
+          "Offset": 30
+        },
+        {
+          "Name": "Servicos",
+          "Label": {
+            "en": "Servicos"
+          },
+          "Queries": [],
+          "Offset": 20
+        }
+      ],
+      "ContactFrom": "kIKGPk9vsdRfEr8iH9NsSBVyT+ri1QKQsjLf+GmyqabBeh66TibbwWbVK4+2/+ktW5pvGigKdtdg/+SbbO6k4Nr6pOybXX3WtqVDRhNvEmOglYV2scjIBzz0/D6o3reK",
+      "ContactTo": "lN3KVpi4IZwUMXTyD3ZdUIcKqAtlZ8N+C+Qyagl2cjExVrxDBvBVIuzKechmjXPGFCyB6huJFroS1DaG0piaEWPPy6ZM+1LMWSof98JyB769Tov54wfDHxpytxr7sjIr",
+      "ContactConfirmation": "Obrigada pelo seu contato, até breve."
+    },
     "Web²": {
       "Label": {
         "en": "Web²"

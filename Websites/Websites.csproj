@@ -136,7 +136,45 @@
     <Content Include=".bowerrc">
       <DependentUpon>bower.json</DependentUpon>
     </Content>
+    <Content Include="App_Data\Websites\Digitina\digitina.css">
+      <DependentUpon>digitina.scss</DependentUpon>
+    </Content>
+    <Content Include="App_Data\Websites\Digitina\digitina.min.css">
+      <DependentUpon>digitina.css</DependentUpon>
+    </Content>
+    <Content Include="App_Data\Websites\Digitina\Images\logo.png" />
+    <Content Include="App_Data\Websites\Digitina\Images\top.png" />
+    <Content Include="App_Data\Websites\Digitina\index.html" />
+    <Content Include="App_Data\Websites\MJPO\Images\bg_top.jpg" />
+    <Content Include="App_Data\Websites\MJPO\Images\comercial1-thumb.gif" />
+    <Content Include="App_Data\Websites\MJPO\Images\comercial1.jpg" />
+    <Content Include="App_Data\Websites\MJPO\Images\comercial1_thumb.jpg" />
+    <Content Include="App_Data\Websites\MJPO\Images\comercial2.jpg" />
+    <Content Include="App_Data\Websites\MJPO\Images\comercial2_thumb.jpg" />
+    <Content Include="App_Data\Websites\MJPO\Images\comercial3.jpg" />
+    <Content Include="App_Data\Websites\MJPO\Images\comercial3_thumb.jpg" />
+    <Content Include="App_Data\Websites\MJPO\Images\favicon.ico" />
+    <Content Include="App_Data\Websites\MJPO\Images\logo.png" />
+    <Content Include="App_Data\Websites\MJPO\Images\residencial1.JPG" />
+    <Content Include="App_Data\Websites\MJPO\Images\residencial1_thumb.JPG" />
+    <Content Include="App_Data\Websites\MJPO\Images\residencial2.JPG" />
+    <Content Include="App_Data\Websites\MJPO\Images\residencial2_thumb.JPG" />
+    <Content Include="App_Data\Websites\MJPO\Images\residencial3.JPG" />
+    <Content Include="App_Data\Websites\MJPO\Images\residencial3_thumb.JPG" />
+    <Content Include="App_Data\Websites\MJPO\Images\residencial4.JPG" />
+    <Content Include="App_Data\Websites\MJPO\Images\residencial4_thumb.JPG" />
+    <Content Include="App_Data\Websites\MJPO\index.html" />
+    <Content Include="App_Data\Websites\MJPO\mjpo.css">
+      <DependentUpon>mjpo.scss</DependentUpon>
+    </Content>
+    <Content Include="App_Data\Websites\MJPO\mjpo.min.css">
+      <DependentUpon>mjpo.css</DependentUpon>
+    </Content>
+    <Content Include="App_Data\Websites\MJPO\Pages\Portfolio.md" />
+    <Content Include="App_Data\Websites\MJPO\Pages\Contact.md" />
+    <Content Include="App_Data\Websites\MJPO\Pages\Servicos.md" />
     <Content Include="App_Data\Websites\Web²\index.html" />
+    <Content Include="App_Data\Websites\Digitina\Images\favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="libs\imports.html" />
     <Content Include="Web.config">
@@ -154,6 +192,10 @@
     <Content Include="App_Data\security.json" />
     <Content Include="App_Data\websites.json" />
     <Content Include="bower.json" />
+    <Content Include="App_Data\Websites\Digitina\Pages\Home.md" />
+    <Content Include="App_Data\Websites\Digitina\digitina.scss" />
+    <Content Include="App_Data\Websites\Digitina\Pages\WhatWeDo.md" />
+    <Content Include="App_Data\Websites\Digitina\Pages\Contact.md" />
     <Content Include="WebComponents\Lightbox\lightbox.css">
       <DependentUpon>lightbox.scss</DependentUpon>
     </Content>
@@ -179,6 +221,8 @@
     <Content Include="WebComponents\PageSection\page-section.js">
       <DependentUpon>page-section.ts</DependentUpon>
     </Content>
+    <Content Include="App_Data\Websites\MJPO\mjpo.scss" />
+    <Content Include="App_Data\Websites\MJPO\Pages\Home.md" />
     <None Include="compilerconfig.json" />
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
