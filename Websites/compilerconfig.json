@@ -14,5 +14,10 @@
   {
     "outputFile": "WebComponents/Lightbox/lightbox.css",
     "inputFile": "WebComponents/Lightbox/lightbox.scss"
+  },
+  {
+    "outputFile": "App_Data/Websites/NxtLvl/nxtlvl.css",
+    "inputFile": "App_Data/Websites/NxtLvl/nxtlvl.scss"
+  },
   }
 ]

@@ -173,6 +173,22 @@
     <Content Include="App_Data\Websites\MJPO\Pages\Portfolio.md" />
     <Content Include="App_Data\Websites\MJPO\Pages\Contact.md" />
     <Content Include="App_Data\Websites\MJPO\Pages\Servicos.md" />
+    <Content Include="App_Data\Websites\NxtLvl\Images\2sky_logo.png" />
+    <Content Include="App_Data\Websites\NxtLvl\Images\Banner.jpg" />
+    <Content Include="App_Data\Websites\NxtLvl\Images\favicon.ico" />
+    <Content Include="App_Data\Websites\NxtLvl\Images\logo.png" />
+    <Content Include="App_Data\Websites\NxtLvl\Images\Rhea_logo.png" />
+    <Content Include="App_Data\Websites\NxtLvl\Images\SoftN_logo.png" />
+    <Content Include="App_Data\Websites\NxtLvl\Images\top.png" />
+    <Content Include="App_Data\Websites\NxtLvl\index.html" />
+    <Content Include="App_Data\Websites\NxtLvl\nxtlvl.css">
+      <DependentUpon>nxtlvl.scss</DependentUpon>
+    </Content>
+    <Content Include="App_Data\Websites\NxtLvl\nxtlvl.min.css">
+      <DependentUpon>nxtlvl.css</DependentUpon>
+    </Content>
+    <Content Include="App_Data\Websites\NxtLvl\Pages\Contact.md" />
+    <None Include="App_Data\Websites\NxtLvl\Pages\OurStory.md" />
     <Content Include="App_Data\Websites\Web²\index.html" />
     <Content Include="App_Data\Websites\Digitina\Images\favicon.ico" />
     <Content Include="Global.asax" />
@@ -223,6 +239,10 @@
     </Content>
     <Content Include="App_Data\Websites\MJPO\mjpo.scss" />
     <Content Include="App_Data\Websites\MJPO\Pages\Home.md" />
+    <Content Include="App_Data\Websites\NxtLvl\Pages\Home.md" />
+    <Content Include="App_Data\Websites\NxtLvl\nxtlvl.scss" />
+    <Content Include="App_Data\Websites\NxtLvl\Pages\OurAffiliates.md" />
+    <Content Include="App_Data\Websites\NxtLvl\Pages\References.md" />
     <None Include="compilerconfig.json" />
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
