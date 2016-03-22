@@ -177,6 +177,7 @@
     <Content Include="App_Data\Websites\NxtLvl\Images\Banner.jpg" />
     <Content Include="App_Data\Websites\NxtLvl\Images\favicon.ico" />
     <Content Include="App_Data\Websites\NxtLvl\Images\logo.png" />
+    <Content Include="App_Data\Websites\NxtLvl\Images\ourStory.jpg" />
     <Content Include="App_Data\Websites\NxtLvl\Images\Rhea_logo.png" />
     <Content Include="App_Data\Websites\NxtLvl\Images\SoftN_logo.png" />
     <Content Include="App_Data\Websites\NxtLvl\Images\top.png" />

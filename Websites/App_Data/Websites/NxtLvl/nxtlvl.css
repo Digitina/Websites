@@ -5,7 +5,7 @@
   line-height: 20px; }
 
 paper-toolbar {
-  background-color: #215F74 !important; }
+  background-color: #A9CF24 !important; }
   paper-toolbar.header paper-icon-button[icon="menu"] {
     margin-right: 0 !important; }
   paper-toolbar.header nav {
@@ -37,10 +37,10 @@ hr {
   border: 0;
   margin: 1em 0;
   padding: 0;
-  background-image: -webkit-linear-gradient(left, #ffffff, #215F74, #ffffff);
-  background-image: -moz-linear-gradient(left, #ffffff, #215F74, #ffffff);
-  background-image: -ms-linear-gradient(left, #ffffff, #215F74, #ffffff);
-  background-image: -o-linear-gradient(left, #ffffff, #215F74, #ffffff);
+  background-image: -webkit-linear-gradient(left, #ffffff, #A9CF24, #ffffff);
+  background-image: -moz-linear-gradient(left, #ffffff, #A9CF24, #ffffff);
+  background-image: -ms-linear-gradient(left, #ffffff, #A9CF24, #ffffff);
+  background-image: -o-linear-gradient(left, #ffffff, #A9CF24, #ffffff);
   width: 150px;
   left: calc(50% - 75px);
   position: relative;
@@ -71,8 +71,8 @@ section {
     background-image: url(images/Banner.jpg);
     background-repeat: repeat-x;
     background-size: cover;
-    background-position: left center;
-    color: white;
+    background-position: center center;
+    color: #4a4a4a;
     min-height: 500px;
     text-transform: uppercase;
     position: relative; }
@@ -101,7 +101,7 @@ section {
       color: white !important;
       text-decoration: none !important; }
     section#Home paper-button {
-      background-color: #ff9000;
+      background-color: #A9CF24;
       margin-top: 40px;
       font-size: 18px;
       line-height: 20px;
@@ -133,7 +133,7 @@ section {
       -webkit-transition: border-color 0.55s ease;
       transition: border-color 0.55s ease; }
       section#OurAffiliates .company:hover {
-        border-bottom-color: #215F74; }
+        border-bottom-color: #A9CF24; }
       section#OurAffiliates .company .logo {
         width: 128px; }
         section#OurAffiliates .company .logo > img {
@@ -141,12 +141,12 @@ section {
       section#OurAffiliates .company > div.flex {
         padding: 25px 12px 12px 12px; }
         section#OurAffiliates .company > div.flex > h4 {
-          color: #215F74;
+          color: #A9CF24;
           font-size: 25px;
           font-weight: 600;
           text-align: left; }
         section#OurAffiliates .company > div.flex a {
-          color: #ff9000;
+          color: #A9CF24;
           font-weight: 600;
           text-decoration: none; }
       section#OurAffiliates .company:last-child {
@@ -155,7 +155,7 @@ section {
     border-top: 1px solid #eaebec;
     background-color: #FCFCFD; }
   section#References {
-    background-color: #215F74;
+    background-color: #A9CF24;
     color: white;
     font-size: 24px;
     letter-spacing: 3px; }
@@ -163,5 +163,5 @@ section {
 footer {
   padding: 32px 16px;
   color: white;
-  background-color: #215F74; }
+  background-color: #A9CF24; }
 

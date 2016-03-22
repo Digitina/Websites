@@ -1,6 +1,6 @@
 ﻿//$mainColor: #006665;
-$mainColor: #215F74;
-$accentColor: #ff9000;
+$mainColor: #A9CF24;
+$accentColor: #A9CF24;
 $textColor: #4a4a4a;
 $otherColor: #eaebec;
 
@@ -106,8 +106,8 @@ section {
         background-image: url(images/Banner.jpg);
         background-repeat: repeat-x;
         background-size: cover;
-        background-position: left center;
-        color: white;
+        background-position: center center;
+        color: $textColor;
         min-height: 500px;
         text-transform: uppercase;
         position: relative;
