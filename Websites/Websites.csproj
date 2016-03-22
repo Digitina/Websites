@@ -189,7 +189,6 @@
       <DependentUpon>nxtlvl.css</DependentUpon>
     </Content>
     <Content Include="App_Data\Websites\NxtLvl\Pages\Contact.md" />
-    <None Include="App_Data\Websites\NxtLvl\Pages\OurStory.md" />
     <Content Include="App_Data\Websites\Web²\index.html" />
     <Content Include="App_Data\Websites\Digitina\Images\favicon.ico" />
     <Content Include="Global.asax" />
