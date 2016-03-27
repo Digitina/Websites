@@ -19,5 +19,8 @@
     "outputFile": "App_Data/Websites/NxtLvl/nxtlvl.css",
     "inputFile": "App_Data/Websites/NxtLvl/nxtlvl.scss"
   },
+  {
+    "outputFile": "WebComponents/Carousel/carousel.css",
+    "inputFile": "WebComponents/Carousel/carousel.scss"
   }
 ]
