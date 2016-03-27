@@ -200,6 +200,10 @@ section {
                 border-bottom-color: $mainColor;
             }
 
+            &:first-child {
+                margin-top: 0;
+            }
+
             .logo {
                 width: 128px;
 

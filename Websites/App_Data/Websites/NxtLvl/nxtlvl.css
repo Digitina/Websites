@@ -134,6 +134,8 @@ section {
       transition: border-color 0.55s ease; }
       section#OurAffiliates .company:hover {
         border-bottom-color: #A9CF24; }
+      section#OurAffiliates .company:first-child {
+        margin-top: 0; }
       section#OurAffiliates .company .logo {
         width: 128px; }
         section#OurAffiliates .company .logo > img {
