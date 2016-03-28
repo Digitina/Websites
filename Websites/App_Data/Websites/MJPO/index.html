@@ -55,9 +55,12 @@
                                 <marked-element markdown="[[page.content]]"></marked-element>
                             </section>
                         </template>
-                        <google-map fit-to-markers api-key="AIzaSyDifwwCw0WiG7SkuvsX861rTxCHp2ai0MY" zoom="16">
-                            <google-map-marker latitude="40.991959892540976" longitude="-8.468306684255595" title="MJPO"></google-map-marker>
-                        </google-map>
+                        <div class="relative">
+                            <div class="fit" onClick="style.pointerEvents='none'" style="background-color: transparent; z-index: 1;"></div>
+                            <google-map fit-to-markers api-key="AIzaSyDifwwCw0WiG7SkuvsX861rTxCHp2ai0MY" zoom="16">
+                                <google-map-marker latitude="40.991959892540976" longitude="-8.468306684255595" title="MJPO"></google-map-marker>
+                            </google-map>
+                        </div>
                         <footer class="layout horizontal center-center">Copyright © 2016 - MJPO</footer>
                     </div>
                 </paper-header-panel>

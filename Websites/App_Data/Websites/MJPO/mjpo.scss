@@ -145,7 +145,7 @@ section {
             margin: 0 auto;
             max-width: 1000px;
 
-            .vi-grid-cell {
+            > * {
                 border: 1px solid #EAEBEC;
                 -moz-transition: all 0.2s ease-in-out;
                 -o-transition: all 0.2s ease-in-out;

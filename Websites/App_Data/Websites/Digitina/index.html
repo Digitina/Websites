@@ -52,9 +52,12 @@
                                 <marked-element markdown="[[page.content]]"></marked-element>
                             </section>
                         </template>
-                        <google-map fit-to-markers api-key="AIzaSyDifwwCw0WiG7SkuvsX861rTxCHp2ai0MY" zoom="18">
-                            <google-map-marker latitude="51.12589074711444" longitude="4.495357996463781" title="Digitina"></google-map-marker>
-                        </google-map>
+                        <div class="relative">
+                            <div class="fit" onClick="style.pointerEvents='none'" style="background-color: transparent; z-index: 1;"></div>
+                            <google-map fit-to-markers api-key="AIzaSyDifwwCw0WiG7SkuvsX861rTxCHp2ai0MY" zoom="18">
+                                <google-map-marker latitude="51.12589074711444" longitude="4.495357996463781" title="Digitina"></google-map-marker>
+                            </google-map>
+                        </div>
                         <footer class="layout horizontal center-center">Copyright © 2016 - Digitina</footer>
                     </div>
                 </paper-header-panel>

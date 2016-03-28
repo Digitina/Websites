@@ -7,11 +7,11 @@ Não procure mais! Entre em contato connosco.
 <div>
     <vi-contact-form name-label="Nome" message-label="Messagem" send-message-label="Enviar"></vi-contact-form>
     <vi-grid class="contact-data">
-        <div class="vi-grid-cell vi-grid-cell--6-col vi-grid-cell--4-col-tablet">
+        <div desktop-6 tablet-4>
             <iron-icon icon="maps:place"></iron-icon>
             <p>Rua do Outeiro 53, 4525-308 Gião, Portugal</p>
         </div>
-        <div class="vi-grid-cell vi-grid-cell--6-col vi-grid-cell--4-col-tablet">
+        <div desktop-6 tablet-4>
             <iron-icon icon="communication:call"></iron-icon>
             <p>+351 910 331 449</p>
         </div>

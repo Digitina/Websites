@@ -95,64 +95,6 @@
       "ContactTo": "lN3KVpi4IZwUMXTyD3ZdUIcKqAtlZ8N+C+Qyagl2cjExVrxDBvBVIuzKechmjXPGFCyB6huJFroS1DaG0piaEWPPy6ZM+1LMWSof98JyB769Tov54wfDHxpytxr7sjIr",
       "ContactConfirmation": "Obrigada pelo seu contato, até breve."
     },
-    "NxtLvl": {
-      "Label": {
-        "en": "NxtLvl",
-        "pt": "NxtLvl"
-      },
-      "Type": 1,
-      "Bindings": [
-        "*/nxtlvl"
-      ],
-      "DefaultUser": "f6a48ccf-1899-4637-80bd-8b4bfd453a86",
-      "Pages": [
-        {
-          "Name": "Contact",
-          "Label": {
-            "en": "Contact",
-            "pt": "Contact"
-          },
-          "Queries": [],
-          "Offset": 40
-        },
-        {
-          "Name": "Home",
-          "Label": {
-            "en": "Home",
-            "pt": "Home"
-          },
-          "Queries": [],
-          "Offset": 20
-        },
-        {
-          "Name": "OurAffiliates",
-          "Label": {
-            "en": "Our affiliates",
-            "pt": "Our affiliates"
-          },
-          "Queries": [],
-          "Offset": 30
-        },
-        {
-          "Name": "OurStory",
-          "Label": {
-            "en": "Our story",
-            "pt": "Our story"
-          },
-          "Queries": [],
-          "Offset": 25
-        },
-        {
-          "Name": "References",
-          "Label": {
-            "en": "References",
-            "pt": "References"
-          },
-          "Queries": [],
-          "Offset": 35
-        }
-      ]
-    },
     "Web²": {
       "Label": {
         "en": "Web²"
