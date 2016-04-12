@@ -12,7 +12,9 @@
       "Type": 1,
       "Bindings": [
         "*/digitina",
+        "www.digitina.eu",
         "digitina.eu",
+        "www.digitina.be",
         "digitina.be"
       ],
       "DefaultUser": "e2a3b677-df5a-413e-b5f5-b9ff557c9ff6",
